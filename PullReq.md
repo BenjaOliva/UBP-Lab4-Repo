@@ -1,0 +1,1 @@
+Un Pull Request es un pedido de aprobacion para hacer merge a la rama principal una vez que se confirme.
