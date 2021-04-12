@@ -1,2 +1,6 @@
 NOMBRE: Benjamin
 APELLIDO: OLiva
+
+DNI: 42336266
+
+EDADA: 21
