@@ -1,8 +1,3 @@
 NOMBRE: Benjamin
 APELLIDO: Oliva
-
-<<<<<<< HEAD
-EDADA: 22
-=======
-EDADA: 21
->>>>>>> 34a267700e8920c7b3197204224d74a65ea18226
+EDAD: 21
